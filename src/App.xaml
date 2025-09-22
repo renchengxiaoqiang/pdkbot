@@ -1,0 +1,18 @@
+﻿<Application x:Class="PdkBot.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PdkBot" 
+             xmlns:ui="http://schemas.inkore.net/lib/ui/wpf/modern">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ui:ThemeResources/>
+                <ui:XamlControlsResources/>
+            </ResourceDictionary.MergedDictionaries>
+            <BitmapImage UriSource="Assets/dd.png" x:Key="doudian" />
+            <BitmapImage UriSource="Assets/pdd.png" x:Key="pdd" />
+            <BitmapImage UriSource="Assets/ks.png" x:Key="ks" />
+            <BitmapImage UriSource="Assets/new.png" x:Key="newTab" />
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
