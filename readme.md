@@ -47,7 +47,7 @@
       <td align="center"><strong>微信赞赏码</strong></td>
     </tr>
     <tr>
-      <td><img src="https://worklink.oss-cn-hangzhou.aliyuncs.com/02D1450BFD22A05D2105FCE299F6BB1E.png"  width="300px" alt="微信交流群"></td>
+      <td><img src="https://worklink.oss-cn-hangzhou.aliyuncs.com/04F7B05B8E5802CA34C8369EA00E9626.png"  width="300px" alt="微信交流群"></td>
       <td><img src="https://worklink.oss-cn-hangzhou.aliyuncs.com/D8512B5B322FFAAC3D6927982A12B078.jpg"  width="300px" alt="微信赞赏码"></td>
     </tr>
   </table>
